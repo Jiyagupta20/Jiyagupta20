@@ -16,9 +16,9 @@
 
 ### 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/jiyagupta20/)
 [![GitHub](https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyagupta20)
-[![Email](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptajiya455@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
